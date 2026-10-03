@@ -12,7 +12,7 @@
 
 - 🎓 BSCS student at **FAST-NUCES**, Chiniot-Faisalabad Campus
 - 🔭 Long-term goal: **teaching & research**, not just industry
-- 🏠 Building **HomePulse** — a verified smart-home reliability project for the Amazon Build/Ship hackathon (Alexa + AWS IoT)
+- 🏠 Building **HomePulse**, a verified smart-home reliability project for the Amazon Build/Ship hackathon (Alexa + AWS IoT)
 - 📍 Faisalabad, Pakistan
 
 ---
@@ -22,9 +22,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -33,8 +33,10 @@
 
 | Project | Description |
 |---|---|
-| ♟️ **Chess Engine** (C++ / SFML) | Full object-oriented chess implementation — legal move validation per piece, check/checkmate detection, pawn promotion, rendered with SFML |
-| 🏠 **HomePulse** | Verified smart-home reliability mesh built on Alexa + AWS IoT, for the Amazon Build/Ship hackathon |
+| ♟️ [**Chess-Game**](https://github.com/M25rub/Chess-Game) | Two-player graphical chess game in C++ with SFML 3 — marble-style board, Unicode chess pieces, gold selection highlights. Demonstrates OOP concepts: encapsulation, inheritance, polymorphism |
+| 🛍️ [**ICT-PROJECT**](https://github.com/YOUR-M25rub/Elara) | E-commerce website "Elara," a luxury perfume brand. Product pages, brand story, and a shopping cart system built with HTML, CSS & JavaScript |
+| 🧠 [**Intelligence-For-Dummies**](https://github.com/M25rub/Intelligence-For-Dummies) | Console-based C++ quiz game with categories, difficulty levels, lifelines, a timer, and a persistent high-score leaderboard |
+| 🏠 [**HomePulse**](https://github.com/M25rub/HomePulse) | Verified smart-home reliability mesh built on Alexa + AWS IoT, for the Amazon Build/Ship hackathon |
 
 ---
 
