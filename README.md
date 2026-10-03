@@ -51,10 +51,6 @@
   <img src="https://streak-stats.demolab.com/?user=M25rub&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M25rub&color=6C63FF&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ### 📫 Connect With Me
