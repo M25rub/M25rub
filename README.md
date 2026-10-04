@@ -2,7 +2,7 @@
 
 # Hi there, I'm Merub 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BSCS+Student+%40+FAST-NUCES;Future+Researcher+%26+Educator;Building+a+Chess+Engine+in+C%2B%2B;Learning+something+new+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BSCS+Student+%40+FAST-NUCES;Future+Researcher+%26+Educator;Learning+something+new+every+day" alt="Typing SVG" />
 
 </div>
 
